@@ -1,0 +1,3 @@
+[submodule "UnityUtility"]
+	path = UnityUtility
+	url = https://github.com/payasomask/UnityUtility.git
